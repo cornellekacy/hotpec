@@ -203,6 +203,7 @@
             <li><a href="gallery.php">Gallery</a></li>
             <li><a href="project.php">Projects</a></li>
             <li><a href="volunteer.php">Become A Volunteer</a></li>
+            <li><a href="partner.php">Partner With Us</a></li>
             <li><a href="contact.php">Contact Us</a></li>
             </ul>
             <ul class="pull-right hidden-sm hidden-xs">
