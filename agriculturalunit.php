@@ -50,12 +50,12 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item">
                   <div class="thumb">
-                    <img alt="project" src="cha/144.jpg" class="img-fullwidth">
+                    <img alt="project" src="agriculture/1.jpg" class="img-fullwidth">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/144.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                          <a href="agriculture/1.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
                         </div>
                       </div>
                     </div>
@@ -66,12 +66,12 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item">
                   <div class="thumb">
-                    <img alt="project" src="cha/143.jpg" class="img-fullwidth">
+                    <img alt="project" src="agriculture/2.jpg" class="img-fullwidth">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/143.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                          <a href="agriculture/2.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
                         </div>
                       </div>
                     </div>
@@ -82,12 +82,12 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item">
                   <div class="thumb">
-                    <img alt="project" src="cha/h4.JPG" class="img-fullwidth">
+                    <img alt="project" src="agriculture/3.JPG" class="img-fullwidth">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/h4.JPG"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                          <a href="agriculture/3.JPG"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
                         </div>
                       </div>
                     </div>
@@ -98,12 +98,12 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item">
                   <div class="thumb">
-                    <img alt="project" src="cha/100.jpg" class="img-fullwidth">
+                    <img alt="project" src="agriculture/4.jpg" class="img-fullwidth">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/100.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                          <a href="agriculture/4.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
                         </div>
                       </div>
                     </div>
@@ -114,12 +114,12 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item">
                   <div class="thumb">
-                    <img alt="project" src="cha/95.jpg" class="img-fullwidth">
+                    <img alt="project" src="agriculture/5.jpg" class="img-fullwidth">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/95.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                          <a href="agriculture/5.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
                         </div>
                       </div>
                     </div>
@@ -130,12 +130,12 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item">
                   <div class="thumb">
-                    <img alt="project" src="cha/89.jpg" class="img-fullwidth">
+                    <img alt="project" src="agriculture/6.jpg" class="img-fullwidth">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/89.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                          <a href="agriculture/6.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
                         </div>
                       </div>
                     </div>
@@ -146,12 +146,12 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item">
                   <div class="thumb">
-                    <img alt="project" src="cha/90.jpg" class="img-fullwidth">
+                    <img alt="project" src="agriculture/7.jpg" class="img-fullwidth">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/90.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                          <a href="agriculture/7.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
                         </div>
                       </div>
                     </div>
@@ -162,12 +162,12 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item">
                   <div class="thumb">
-                    <img alt="project" src="cha/92.jpg" class="img-fullwidth">
+                    <img alt="project" src="agriculture/8.jpg" class="img-fullwidth">
                     <div class="overlay-shade"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/92.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
+                          <a href="agriculture/8.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
                         </div>
                       </div>
                     </div>
@@ -176,250 +176,7 @@
                 <!-- Portfolio Item End -->
                 
                 <!-- Portfolio Item Start -->
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/93.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/93.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/60.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/60.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/62.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/62.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/39.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/39.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/41.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/41.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/46.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/46.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-                
-                <!-- Portfolio Item Start -->
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/50.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/50.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Portfolio Item End -->
-
-                  <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/48.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/48.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/44.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/44.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/71.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/71.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/84.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/84.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/82.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/82.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-
-
-                  <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/32.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/32.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/36.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/36.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/30.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/30.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/37.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/37.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="gallery-item">
-                  <div class="thumb">
-                    <img alt="project" src="cha/53.jpg" class="img-fullwidth">
-                    <div class="overlay-shade"></div>
-                    <div class="icons-holder">
-                      <div class="icons-holder-inner">
-                        <div class="styled-icons icon-dark icon-circled icon-theme-colored">
-                          <a href="cha/53.jpg"  data-lightbox-gallery="gallery"><i class="fa fa-picture-o"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+              
 
 
               </div>

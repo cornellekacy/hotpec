@@ -51,7 +51,7 @@ The paid workers are those who have to give in some skills for monthly salary.
               </div>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
-                  <div class="progress-bar" data-percent="84"></div>
+                  <div class="progress-bar" data-percent="100"></div>
                 </div>
               </div>
               <div class="causes-details clearfix border-bottom p-15 pt-10">
@@ -61,7 +61,7 @@ The paid workers are those who have to give in some skills for monthly salary.
                  
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="babyunit.php">Read More</a>
+                <!--  <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="babyunit.php">Read More</a> -->
               
                 </div>
               </div>
@@ -74,7 +74,7 @@ The paid workers are those who have to give in some skills for monthly salary.
               </div>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
-                  <div class="progress-bar" data-percent="85"></div>
+                  <div class="progress-bar" data-percent="100"></div>
                 </div>
               </div>
               <div class="causes-details clearfix border-bottom p-15 pt-10">
@@ -84,7 +84,7 @@ The paid workers are those who have to give in some skills for monthly salary.
 
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read More</a>
+                 <!-- <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read More</a> -->
      
                 </div>
               </div>
@@ -97,7 +97,7 @@ The paid workers are those who have to give in some skills for monthly salary.
               </div>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
-                  <div class="progress-bar" data-percent="86"></div>
+                  <div class="progress-bar" data-percent="100"></div>
                 </div>
               </div>
               <div class="causes-details clearfix border-bottom p-15 pt-10">
@@ -107,7 +107,7 @@ The paid workers are those who have to give in some skills for monthly salary.
      
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                <!--  <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a> -->
            
                 </div>
               </div>
@@ -120,7 +120,7 @@ The paid workers are those who have to give in some skills for monthly salary.
               </div>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
-                  <div class="progress-bar" data-percent="87"></div>
+                  <div class="progress-bar" data-percent="100"></div>
                 </div>
               </div>
               <div class="causes-details clearfix border-bottom p-15 pt-10">
@@ -130,7 +130,7 @@ The paid workers are those who have to give in some skills for monthly salary.
     
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                <!--  <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a> -->
             
                 </div>
               </div>
@@ -149,7 +149,7 @@ The paid workers are those who have to give in some skills for monthly salary.
               </div>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
-                  <div class="progress-bar" data-percent="84"></div>
+                  <div class="progress-bar" data-percent="100"></div>
                 </div>
               </div>
               <div class="causes-details clearfix border-bottom p-15 pt-10">
@@ -159,7 +159,7 @@ The paid workers are those who have to give in some skills for monthly salary.
                  
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="babyunit.php">Read More</a>
+               <!--   <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="babyunit.php">Read More</a> -->
               
                 </div>
               </div>
@@ -172,7 +172,7 @@ The paid workers are those who have to give in some skills for monthly salary.
               </div>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
-                  <div class="progress-bar" data-percent="85"></div>
+                  <div class="progress-bar" data-percent="100"></div>
                 </div>
               </div>
               <div class="causes-details clearfix border-bottom p-15 pt-10">
@@ -182,7 +182,7 @@ The paid workers are those who have to give in some skills for monthly salary.
 
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read More</a>
+                 <!-- <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read More</a> -->
      
                 </div>
               </div>
@@ -195,7 +195,7 @@ The paid workers are those who have to give in some skills for monthly salary.
               </div>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
-                  <div class="progress-bar" data-percent="86"></div>
+                  <div class="progress-bar" data-percent="100"></div>
                 </div>
               </div>
               <div class="causes-details clearfix border-bottom p-15 pt-10">
@@ -205,7 +205,7 @@ The paid workers are those who have to give in some skills for monthly salary.
      
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                 <!-- <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a> -->
            
                 </div>
               </div>
@@ -218,7 +218,7 @@ The paid workers are those who have to give in some skills for monthly salary.
               </div>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
-                  <div class="progress-bar" data-percent="87"></div>
+                  <div class="progress-bar" data-percent="100"></div>
                 </div>
               </div>
               <div class="causes-details clearfix border-bottom p-15 pt-10">
@@ -228,7 +228,7 @@ The paid workers are those who have to give in some skills for monthly salary.
     
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                 <!-- <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a> -->
             
                 </div>
               </div>
@@ -269,7 +269,7 @@ The paid workers are those who have to give in some skills for monthly salary.
                  
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
               
                 </div>
               </div>
@@ -292,7 +292,7 @@ The paid workers are those who have to give in some skills for monthly salary.
 
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
      
                 </div>
               </div>
@@ -315,7 +315,7 @@ The paid workers are those who have to give in some skills for monthly salary.
      
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
            
                 </div>
               </div>
@@ -338,7 +338,7 @@ The paid workers are those who have to give in some skills for monthly salary.
     
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
             
                 </div>
               </div>
@@ -368,7 +368,7 @@ The paid workers are those who have to give in some skills for monthly salary.
                  
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
               
                 </div>
               </div>
@@ -391,7 +391,7 @@ The paid workers are those who have to give in some skills for monthly salary.
 
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
      
                 </div>
               </div>
@@ -432,7 +432,7 @@ The paid workers are those who have to give in some skills for monthly salary.
                  
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
               
                 </div>
               </div>
@@ -455,7 +455,7 @@ The paid workers are those who have to give in some skills for monthly salary.
 
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
      
                 </div>
               </div>
@@ -478,7 +478,7 @@ The paid workers are those who have to give in some skills for monthly salary.
      
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
            
                 </div>
               </div>
@@ -501,7 +501,7 @@ The paid workers are those who have to give in some skills for monthly salary.
     
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a>
+                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
             
                 </div>
               </div>

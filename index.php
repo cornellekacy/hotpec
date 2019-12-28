@@ -138,42 +138,42 @@
     
 
     <!-- Section: featured project -->
-    <section class="bg-lightest">
+      <section class="bg-lightest">
       <div class="container">
         <div class="row">
           <div class="col-sm-12 col-md-4 wow fadeInLeft animation-delay6">
-                    <h4 class="text-uppercase line-bottom mt-0">Featured Projects</h4>
+                    <h4 class="text-uppercase line-bottom mt-0">Babies Units</h4>
             <div class="volunteer-wrapper border-bottom sm-maxwidth500 clearfix pb-15 mb-sm-30">
               <div class="fluid-video-wrapper">
-                <img src="cha/63.jpg">
+                <img src="babies/1.jpg">
               </div>
-              <p class="mb-10 mt-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium quos aspernatur cupiditate commodi sunt illo, dolorum iste molestias.</p>
+              <p class="mb-10 mt-15">This is the department where the orphanage takes care of young babies from 0-5 years old.</p>
               <p>
-                <a href="contact.php" class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10">Join Us</a>
+                <a href="babyunit.php" class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10">Read More</a>
               </p>
             </div>
           </div>
           <div class="col-sm-12 col-md-4 wow fadeInUp animation-delay6">
-            <h4 class="text-uppercase line-bottom mt-0">Became a Volunteer</h4>
+            <h4 class="text-uppercase line-bottom mt-0">Educational units</h4>
             <div class="volunteer-wrapper border-bottom sm-maxwidth500 clearfix pb-15 mb-sm-30">
               <div class="fluid-video-wrapper">
-                <img src="cha/124.jpg">
+                <img src="education/6.jpg">
               </div>
-              <p class="mb-10 mt-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium quos aspernatur cupiditate commodi sunt illo, dolorum iste molestias.</p>
+              <p class="mb-10 mt-15">Here the orphanage takes care of the children's education from nursery to the university.</p>
               <p>
-                <a href="volunteer.php" class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10">Join Us</a>
+                <a href="education.php" class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10">Read More</a>
               </p>
             </div>
           </div>
           <div class="col-sm-12 col-md-4 wow fadeInRight animation-delay6">
-             <h4 class="text-uppercase line-bottom mt-0">Our Activities</h4>
+             <h4 class="text-uppercase line-bottom mt-0">The Chapel Unit</h4>
             <div class="volunteer-wrapper border-bottom sm-maxwidth500 clearfix pb-15 mb-sm-30">
               <div class="fluid-video-wrapper">
                 <img src="cha/90.jpg">
               </div>
-              <p class="mb-10 mt-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium quos aspernatur cupiditate commodi sunt illo, dolorum iste molestias.</p>
+              <p class="mb-10 mt-15">The orphanage runs a chapel that helps to mould their morals and have a relationship with God </p>
               <p>
-                <a href="contact.php" class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10">Join Us</a>
+                <a href="chapelunit.php" class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10">Read more</a>
               </p>
             </div>
         </div>
@@ -181,12 +181,12 @@
     </section>
     
     <!-- Section: Causes -->
-    <section> 
+      <section> 
       <div class="container pb-80">
         <div class="section-title text-center">
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
-              <h3 class="text-uppercase mt-0">Our Causes</h3>
+              <h3 class="text-uppercase mt-0">Accomplished Projects</h3>
               <div class="title-icon">
                 <i class="flaticon-charity-hand-holding-a-heart"></i>
               </div>
@@ -202,17 +202,17 @@
               </div>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
-                  <div class="progress-bar" data-percent="84"></div>
+                  <div class="progress-bar" data-percent="100"></div>
                 </div>
               </div>
               <div class="causes-details clearfix border-bottom p-15 pt-10">
-                <h5><a href="#">Sponsor a child today</a></h5>
-                <p>Lorem ipsum dolor sit amet, consect adipisicing elit. Praesent quos sit.</p>
+                <h5><a href="#">Baby's Unit</a></h5>
+                <p></p>
                 <ul class="list-inline clearfix mt-20">
                  
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
+                <!--  <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="babyunit.php">Read More</a> -->
               
                 </div>
               </div>
@@ -225,17 +225,17 @@
               </div>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
-                  <div class="progress-bar" data-percent="85"></div>
+                  <div class="progress-bar" data-percent="100"></div>
                 </div>
               </div>
               <div class="causes-details clearfix border-bottom p-15 pt-10">
-                <h5><a href="#">Sponsor a child today</a></h5>
-                <p>Lorem ipsum dolor sit amet, consect adipisicing elit. Praesent quos sit.</p>
+                <h5><a href="#">primary School Structure</a></h5>
+                <p></p>
                 <ul class="list-inline clearfix mt-20">
 
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
+                 <!-- <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read More</a> -->
      
                 </div>
               </div>
@@ -248,17 +248,17 @@
               </div>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
-                  <div class="progress-bar" data-percent="86"></div>
+                  <div class="progress-bar" data-percent="100"></div>
                 </div>
               </div>
               <div class="causes-details clearfix border-bottom p-15 pt-10">
-                <h5><a href="#">Sponsor a child today</a></h5>
-                <p>Lorem ipsum dolor sit amet, consect adipisicing elit. Praesent quos sit.</p>
+                <h5><a href="#">Volunteer and training center</a></h5>
+                <p></p>
                 <ul class="list-inline clearfix mt-20">
      
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
+                <!--  <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a> -->
            
                 </div>
               </div>
@@ -271,17 +271,116 @@
               </div>
               <div class="progress-item mt-0">
                 <div class="progress mb-0">
-                  <div class="progress-bar" data-percent="87"></div>
+                  <div class="progress-bar" data-percent="100"></div>
                 </div>
               </div>
               <div class="causes-details clearfix border-bottom p-15 pt-10">
-                <h5><a href="#">Sponsor a child today</a></h5>
-                <p>Lorem ipsum dolor sit amet, consect adipisicing elit. Praesent quos sit.</p>
+                <h5><a href="#">Borehold Water Project</a></h5>
+                <p></p>
                 <ul class="list-inline clearfix mt-20">
     
                 </ul>
                 <div class="mt-10">
-                 <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Donate</a>
+                <!--  <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a> -->
+            
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+            <section> 
+      <div class="container pb-80">
+        <div class="row mtli-row-clearfix">
+          <div class="col-sm-6 col-md-3 col-lg-3">
+            <div class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
+              <div class="thumb">
+                <img class="img-fullwidth" alt="" src="cha/1.jpg">
+              </div>
+              <div class="progress-item mt-0">
+                <div class="progress mb-0">
+                  <div class="progress-bar" data-percent="100"></div>
+                </div>
+              </div>
+              <div class="causes-details clearfix border-bottom p-15 pt-10">
+                <h5><a href="#">Children Hostels</a></h5>
+                <p></p>
+                <ul class="list-inline clearfix mt-20">
+                 
+                </ul>
+                <div class="mt-10">
+               <!--   <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="babyunit.php">Read More</a> -->
+              
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3">
+            <div class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
+              <div class="thumb">
+                <img class="img-fullwidth" alt="" src="cha/14.jpg">
+              </div>
+              <div class="progress-item mt-0">
+                <div class="progress mb-0">
+                  <div class="progress-bar" data-percent="100"></div>
+                </div>
+              </div>
+              <div class="causes-details clearfix border-bottom p-15 pt-10">
+                <h5><a href="#">Girls Domitary</a></h5>
+                <p></p>
+                <ul class="list-inline clearfix mt-20">
+
+                </ul>
+                <div class="mt-10">
+                 <!-- <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read More</a> -->
+     
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3">
+            <div class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
+              <div class="thumb">
+                <img class="img-fullwidth" alt="" src="cha/21.jpg">
+              </div>
+              <div class="progress-item mt-0">
+                <div class="progress mb-0">
+                  <div class="progress-bar" data-percent="100"></div>
+                </div>
+              </div>
+              <div class="causes-details clearfix border-bottom p-15 pt-10">
+                <h5><a href="#">Farm Land</a></h5>
+                <p></p>
+                <ul class="list-inline clearfix mt-20">
+     
+                </ul>
+                <div class="mt-10">
+                 <!-- <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a> -->
+           
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3 col-lg-3">
+            <div class="causes bg-lighter box-hover-effect effect1 maxwidth500 mb-sm-30">
+              <div class="thumb">
+                <img class="img-fullwidth" alt="" src="cha/12.jpg">
+              </div>
+              <div class="progress-item mt-0">
+                <div class="progress mb-0">
+                  <div class="progress-bar" data-percent="100"></div>
+                </div>
+              </div>
+              <div class="causes-details clearfix border-bottom p-15 pt-10">
+                <h5><a href="#">Morden Kitchen</a></h5>
+                <p></p>
+                <ul class="list-inline clearfix mt-20">
+    
+                </ul>
+                <div class="mt-10">
+                 <!-- <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="donate.php">Read more</a> -->
             
                 </div>
               </div>
@@ -593,118 +692,6 @@
       </div>
     </section>
     
-    <!-- Section: Testimonials and Logo -->
-    <section class="divider parallax layer-overlay overlay-light" data-stellar-background-ratio="0.2" data-bg-img="images/bg/bg4.jpg">
-      <div class="container pt-0 pb-0">
-        <div class="row equal-height">
-          <div class="col-md-7">
-            <div class="display-table-parent pr-90 pl-90">
-              <div class="display-table">
-                <div class="display-table-cell">
-                  <div class="clients text-center pt-30 pb-20 bg-lightest-transparent">
-                    <div class="row">
-                      <div class="col-xs-6 col-sm-6 col-md-4">
-                        <img src="images/clients/1.png" alt="" width="100" class="mb-10">
-                      </div>
-                      <div class="col-xs-6 col-sm-6 col-md-4">
-                        <img src="images/clients/2.png" alt="" width="100" class="mb-10">
-                      </div>
-                      <div class="col-xs-6 col-sm-6 col-md-4">
-                        <img src="images/clients/3.png" alt="" width="100" class="mb-10">
-                      </div>
-                      <div class="col-xs-6 col-sm-6 col-md-4">
-                        <img src="images/clients/4.png" alt="" width="100" class="mb-10">
-                      </div>
-                      <div class="col-xs-6 col-sm-6 col-md-4">
-                        <img src="images/clients/5.png" alt="" width="100" class="mb-10">
-                      </div>
-                      <div class="col-xs-6 col-sm-6 col-md-4">
-                        <img src="images/clients/6.png" alt="" width="100" class="mb-10">
-                      </div>
-                      <div class="clearfix"></div>
-                    </div>
-                  </div>                  
-                  <div class="mt-30">
-                    <h4 class="text-uppercase mb-5">Subscribe to our newsletter</h4>
-                    <!-- Mailchimp Subscription Form-->
-                    <form id="mailchimp-subscription-form" class="newsletter-form mt-10">
-                      <label class="display-block" for="mce-EMAIL"></label>
-                      <div class="input-group">
-                        <input type="email" id="mce-EMAIL" data-height="43px" class="form-control input-lg" placeholder="Your Email" name="EMAIL" value="">
-                        <span class="input-group-btn">
-                          <button type="submit" class="btn btn-flat btn-lg btn-colored btn-theme-colored m-0" data-height="43px">Subscribe</button>
-                        </span>
-                      </div>
-                    </form>
-
-                    <!-- Mailchimp Subscription Form Validation-->
-                    <script type="text/javascript">
-                      $('#mailchimp-subscription-form').ajaxChimp({
-                          callback: mailChimpCallBack,
-                          url: '//thememascot.us9.list-manage.com/subscribe/post?u=a01f440178e35febc8cf4e51f&amp;id=49d6d30e1e'
-                      });
-
-                      function mailChimpCallBack(resp) {
-                          // Hide any previous response text
-                          var $mailchimpform = $('#mailchimp-subscription-form'),
-                              $response = '';
-                          $mailchimpform.children(".alert").remove();
-                          if (resp.result === 'success') {
-                              $response = '<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' + resp.msg + '</div>';
-                          } else if (resp.result === 'error') {
-                              $response = '<div class="alert alert-danger"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' + resp.msg + '</div>';
-                          }
-                          $mailchimpform.prepend($response);
-                      }
-                    </script>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-5 bg-light-transparent">
-            <div class="pt-50 pb-50 pl-20 pr-20">
-              <h4 class="text-uppercase line-bottom mt-0">Our Donors Say</h4>
-              <div class="testimonial-carousel owl-nav-top">
-                <div class="item">
-                  <div class="testimonial-wrapper text-center">
-                    <div class="thumb"><img class="img-circle" alt="" src="images/testimonials/1.jpg"></div>
-                    <div class="content pt-10">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum feugiat turpis nec leo pellentesque tincidunt adipiscing elit.</p>
-                      <i class="fa fa-quote-right font-36 mt-10 text-gray-lightgray"></i>
-                      <h5 class="author text-theme-colored mb-0">Catherine Grace</h5>
-                      <h6 class="title text-gray mt-0 mb-15">Designer</h6>
-                    </div>
-                  </div>
-                </div>
-                <div class="item">
-                  <div class="testimonial-wrapper text-center">
-                    <div class="thumb"><img class="img-circle" alt="" src="images/testimonials/2.jpg"></div>
-                    <div class="content pt-10">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum feugiat turpis nec leo pellentesque tincidunt adipiscing elit.</p>
-                      <i class="fa fa-quote-right font-36 mt-10 text-gray-lightgray"></i>
-                      <h5 class="author text-theme-colored mb-0">Catherine Grace</h5>
-                      <h6 class="title text-gray mt-0 mb-15">Designer</h6>
-                    </div>
-                  </div>
-                </div>
-                <div class="item">
-                  <div class="testimonial-wrapper text-center">
-                    <div class="thumb"><img class="img-circle" alt="" src="images/testimonials/3.jpg"></div>
-                    <div class="content pt-10">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum feugiat turpis nec leo pellentesque tincidunt adipiscing elit.</p>
-                      <i class="fa fa-quote-right font-36 mt-10 text-gray-lightgray"></i>
-                      <h5 class="author text-theme-colored mb-0">Catherine Grace</h5>
-                      <h6 class="title text-gray mt-0 mb-15">Designer</h6>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
     
 
   </div>
