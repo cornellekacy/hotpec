@@ -19,7 +19,7 @@
                     <h4 class="text-uppercase line-bottom mt-0">Babies Units</h4>
             <div class="volunteer-wrapper border-bottom sm-maxwidth500 clearfix pb-15 mb-sm-30">
               <div class="fluid-video-wrapper">
-                <img src="babies/1.jpg">
+                <img src="babies/1.JPG">
               </div>
               <p class="mb-10 mt-15">This is the department where the orphanage takes care of young babies from 0-5 years old.</p>
               <p>
@@ -31,7 +31,7 @@
             <h4 class="text-uppercase line-bottom mt-0">Educational units</h4>
             <div class="volunteer-wrapper border-bottom sm-maxwidth500 clearfix pb-15 mb-sm-30">
               <div class="fluid-video-wrapper">
-                <img src="education/6.jpg">
+                <img src="education/6.JPG">
               </div>
               <p class="mb-10 mt-15">Here the orphanage takes care of the children's education from nursery to the university.</p>
               <p>
