@@ -169,7 +169,7 @@
              <h4 class="text-uppercase line-bottom mt-0">The Chapel Unit</h4>
             <div class="volunteer-wrapper border-bottom sm-maxwidth500 clearfix pb-15 mb-sm-30">
               <div class="fluid-video-wrapper">
-                <img src="cha/64.jpg">
+                <img src="cha/46.jpg">
               </div>
               <p class="mb-10 mt-15">The orphanage runs a chapel that helps to mould their morals and have a relationship with God </p>
               <p>
