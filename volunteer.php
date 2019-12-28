@@ -70,6 +70,7 @@ EOT;
             <div class="col-md-12">
               <h3 class="mt-0">How you can help us</h3>
               <h2>Just call at <span class="text-theme-colored">+(237) 677201621, +(237) 675082258</span> to make a donation</h2>
+              <h4>Join us safe lives, give us a helping hand and help make hotpec a safe heaven for lost children and needy ones. The help you give is highly appreciated</h4>
             </div>
           </div>
         </div>
